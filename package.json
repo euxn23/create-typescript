@@ -1,0 +1,13 @@
+{
+  "name": "@euxn23/create-typescript",
+  "version": "1.0.0-pre.1",
+  "bin": {
+    "create-typescript": "create-typescript.sh"
+  },
+  "files": [
+    "template"
+  ],
+  "repository": "ssh://git@github.com/euxn23/create-typescript.git",
+  "author": "euxn23 <euxn23@gmail.com>",
+  "license": "MIT"
+}
